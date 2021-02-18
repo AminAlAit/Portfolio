@@ -13,13 +13,7 @@ In this notebook, I will be using the following packages:
 3. tidyr
 4. ggplot2
 
-![](/images/kaggle.png)
-
-## [Phyllotaxis](https://github.com/AminAlAit/phyllotaxis)
-
-## [Drawing Flowers Using Mathematics](https://github.com/AminAlAit/phyllotaxis)
-
-<span style="background-color: #DCDCDC">Data Visualization</span> <span style="background-color: #DCDCDC">Data Manipulation</span> <span style="background-color: #DCDCDC">Case Studies</span>
+![](/images/Kaggle.png)
 
 ________________________
 
@@ -37,5 +31,3 @@ There are many examples of natural facts that can be described in mathematical t
 In this notebook, I will be using the ggplot2 package. This package is home to many important features that will be useful not only to do art but also to represent data in real-life problems.
 
 ![](/images/index.png)
-
-________________________
