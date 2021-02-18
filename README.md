@@ -1,3 +1,28 @@
+## [Kaggle](https://github.com/AminAlAit/exploring_kaggle)
+
+## [Exploring the Kaggle Data Science Survey](https://github.com/AminAlAit/exploring_kaggle)
+<span style="background-color: #DCDCDC">Data Visualization</span> <span style="background-color: #DCDCDC">Data Manipulation</span> <span style="background-color: #DCDCDC">Case Studies</span>
+
+When beginning a career in data science, one often wonders what programming tools and languages are being used in the industry, and what skills one should learn first. By exploring the 2017 Kaggle Data Science Survey results, you can learn about the tools used by 10,000+ people in the professional data science community.
+
+This project uses a subset of the 2017 Kaggle Machine Learning and Data Science Survey dataset.
+
+In this notebook, I will be using the following packages: 
+1. tidyverse
+2. dplyr
+3. tidyr
+4. ggplot2
+
+![](/images/kaggle.png)
+
+## [Phyllotaxis](https://github.com/AminAlAit/phyllotaxis)
+
+## [Drawing Flowers Using Mathematics](https://github.com/AminAlAit/phyllotaxis)
+
+<span style="background-color: #DCDCDC">Data Visualization</span> <span style="background-color: #DCDCDC">Data Manipulation</span> <span style="background-color: #DCDCDC">Case Studies</span>
+
+________________________
+
 ## [Phyllotaxis](https://github.com/AminAlAit/phyllotaxis)
 
 ### [Drawing Flowers Using Mathematics](https://github.com/AminAlAit/phyllotaxis)
