@@ -2,7 +2,7 @@
 
 ### [Drawing Flowers Using Mathematics](https://github.com/AminAlAit/phyllotaxis)
 
-<span style="background-color: #DCDCDC">Data Visualization</span> <span style="background-color: #DCDCDC">Case Studies</span>
+<span style="background-color: #DCDCDC">Data Visualization</span> <span style="background-color: #DCDCDC">Data Manipulation</span> <span style="background-color: #DCDCDC">Case Studies</span>
 
 > "The scientist does not study nature because it is useful; he studies it because he delights in it, and he delights in it because it is beautiful." 
 > \- Henri Poincaré
