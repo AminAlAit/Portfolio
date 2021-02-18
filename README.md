@@ -3,11 +3,11 @@
 ### [Drawing Flowers Using Mathematics](https://github.com/AminAlAit/phyllotaxis)
 
 ##### Topics
-> Data Visualization
-> Case Studies
+##### * Data Visualization
+##### * Case Studies
 
-#### "The scientist does not study nature because it is useful; he studies it because he delights in it, and he delights in it because it is beautiful." 
-#### - Henri Poincaré
+> "The scientist does not study nature because it is useful; he studies it because he delights in it, and he delights in it because it is beautiful." 
+> - Henri Poincaré
 
 There are many examples of natural facts that can be described in mathematical terms. Nice examples are the shape of snowflakes, the fractal geometry of romanesco broccoli or how self-similarity rules the growth of plants.
 
