@@ -1,6 +1,6 @@
-## [Level Difficulty in Candy Crush Saga](https://github.com/AminAlAit/candycrush_difficulty)
+## [Candy Crush Saga](https://github.com/AminAlAit/candycrush_difficulty)
 
-### [Exploring the Kaggle Data Science Survey](https://github.com/AminAlAit/candycrush_difficulty)
+### [Studying Level Difficulty in Candy Crush Levels](https://github.com/AminAlAit/candycrush_difficulty)
 <span style="background-color: #DCDCDC">Data Visualization</span> <span style="background-color: #DCDCDC">Data Manipulation</span> <span style="background-color: #DCDCDC">Case Studies</span> <span style="background-color: #DCDCDC">Probability</span> <span style="background-color: #DCDCDC">Statistics</span>
 
 Candy Crush Saga is a hit mobile game developed by King (part of Activision-Blizzard) that is played by millions of people all around the world.
