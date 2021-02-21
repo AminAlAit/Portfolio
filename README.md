@@ -1,7 +1,7 @@
 ## [Candy Crush Saga](https://github.com/AminAlAit/candycrush_difficulty)
 
 ### [Studying Level Difficulty in Candy Crush Levels](https://github.com/AminAlAit/candycrush_difficulty)
-<span style="background-color: #DCDCDC">Data Visualization</span> <span style="background-color: #DCDCDC">Data Manipulation</span> <span style="background-color: #DCDCDC">Data Cleaning</span> <span style="background-color: #DCDCDC">Case Studies</span> <span style="background-color: #DCDCDC">Probability</span> <span style="background-color: #DCDCDC">Statistics</span>
+<span style="background-color: #DCDCDC">R</span> <span style="background-color: #DCDCDC">Data Visualization</span> <span style="background-color: #DCDCDC">Data Manipulation</span> <span style="background-color: #DCDCDC">Data Cleaning</span> <span style="background-color: #DCDCDC">Case Studies</span> <span style="background-color: #DCDCDC">Probability</span> <span style="background-color: #DCDCDC">Statistics</span>
 
 Candy Crush Saga is a hit mobile game developed by King (part of Activision-Blizzard) that is played by millions of people all around the world.
 
@@ -21,7 +21,7 @@ ________________________
 ## [Kaggle](https://github.com/AminAlAit/exploring_kaggle)
 
 ### [Exploring the Kaggle Data Science Survey](https://github.com/AminAlAit/exploring_kaggle)
-<span style="background-color: #DCDCDC">Data Visualization</span> <span style="background-color: #DCDCDC">Data Manipulation</span> <span style="background-color: #DCDCDC">Case Studies</span>
+<span style="background-color: #DCDCDC">R</span> <span style="background-color: #DCDCDC">Data Visualization</span> <span style="background-color: #DCDCDC">Data Manipulation</span> <span style="background-color: #DCDCDC">Case Studies</span>
 
 When beginning a career in data science, one often wonders what programming tools and languages are being used in the industry, and what skills one should learn first. By exploring the 2017 Kaggle Data Science Survey results, you can learn about the tools used by 10,000+ people in the professional data science community.
 
@@ -41,7 +41,7 @@ ________________________
 
 ### [Drawing Flowers Using Mathematics](https://github.com/AminAlAit/phyllotaxis)
 
-<span style="background-color: #DCDCDC">Data Visualization</span> <span style="background-color: #DCDCDC">Data Manipulation</span> <span style="background-color: #DCDCDC">Case Studies</span>
+<span style="background-color: #DCDCDC">R</span> <span style="background-color: #DCDCDC">Data Visualization</span> <span style="background-color: #DCDCDC">Data Manipulation</span> <span style="background-color: #DCDCDC">Case Studies</span>
 
 > "The scientist does not study nature because it is useful; he studies it because he delights in it, and he delights in it because it is beautiful." 
 > \- Henri Poincaré
