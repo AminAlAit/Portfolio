@@ -41,7 +41,7 @@ In this notebook, I will be using the following packages:
 3. ggplot2
 4. ggmap
 
-![](/images/sf_crime_study.jpg)
+![](/images/sf_crime_study.png)
 
 ________________________
 
