@@ -1,5 +1,4 @@
 ## [Nobel Prize Winners](https://github.com/AminAlAit/nobel_prize)
-
 ### [A Visual History & Analysis](https://github.com/AminAlAit/nobel_prize)
 <span style="background-color: #DCDCDC">R</span> 
 <span style="background-color: #DCDCDC">Data Visualization</span> 
@@ -26,7 +25,6 @@ In this notebook, I will be using the following packages:
 ________________________
 
 ## [Crime Study](https://github.com/AminAlAit/crime_study_sf)
-
 ### [Data Science for Social Good](https://github.com/AminAlAit/crime_study_sf)
 <span style="background-color: #DCDCDC">R</span> <span style="background-color: #DCDCDC">Data Visualization</span> <span style="background-color: #DCDCDC">Data Manipulation</span> <span style="background-color: #DCDCDC">Data Cleaning</span> <span style="background-color: #DCDCDC">Case Studies</span>
 
@@ -46,7 +44,6 @@ In this notebook, I will be using the following packages:
 ________________________
 
 ## [Candy Crush Saga](https://github.com/AminAlAit/candycrush_difficulty)
-
 ### [Studying Level Difficulty in Candy Crush Levels](https://github.com/AminAlAit/candycrush_difficulty)
 <span style="background-color: #DCDCDC">R</span> <span style="background-color: #DCDCDC">Data Visualization</span> <span style="background-color: #DCDCDC">Data Manipulation</span> <span style="background-color: #DCDCDC">Data Cleaning</span> <span style="background-color: #DCDCDC">Case Studies</span> <span style="background-color: #DCDCDC">Probability</span> <span style="background-color: #DCDCDC">Statistics</span>
 
@@ -66,7 +63,6 @@ In this notebook, I will be using the following packages:
 ________________________
 
 ## [Kaggle](https://github.com/AminAlAit/exploring_kaggle)
-
 ### [Exploring the Data Science Survey](https://github.com/AminAlAit/exploring_kaggle)
 <span style="background-color: #DCDCDC">R</span> <span style="background-color: #DCDCDC">Data Visualization</span> <span style="background-color: #DCDCDC">Data Manipulation</span> <span style="background-color: #DCDCDC">Case Studies</span>
 
@@ -85,7 +81,6 @@ In this notebook, I will be using the following packages:
 ________________________
 
 ## [Phyllotaxis](https://github.com/AminAlAit/phyllotaxis)
-
 ### [Drawing Flowers Using Mathematics](https://github.com/AminAlAit/phyllotaxis)
 
 <span style="background-color: #DCDCDC">R</span> <span style="background-color: #DCDCDC">Data Visualization</span> <span style="background-color: #DCDCDC">Data Manipulation</span> <span style="background-color: #DCDCDC">Case Studies</span>
