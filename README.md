@@ -9,8 +9,8 @@ We are going on a de·tour to determine which match and stadium had the highest 
 Why? because we can, of course. 
 We'll bring out our data importing and cleaning skills to dig through the dirty data, clean it up, and present it in the form of informative polished graphs.
 
-Well, let's find out about that! We'll go over questions like: 
-1.    What match had the higest attendance?
+We'll go over questions like: 
+1.    What match had the highest attendance?
 2.    In what stadium was the match with the highest attendance played?
 
 In this notebook, I will be using the following packages: 
