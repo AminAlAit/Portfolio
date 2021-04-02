@@ -19,6 +19,7 @@ In this notebook, I will be using the following packages:
 3.    ggplot2
 
 ![](/images/lifeexp.jpg)
+Source: worldatlas.com
 
 ________________________
 
