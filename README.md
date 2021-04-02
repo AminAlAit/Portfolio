@@ -8,7 +8,7 @@
 1.    Do women live longer than men? How long? Does it happen everywhere? 
 2.    Is life expectancy increasing? Everywhere? 
 3.    Which is the country with the lowest life expectancy? Which is the one with the highest?
-4.    How has life expectancy by gender evolved?
+4.    How has life expectancy evolved by gender?
 
 In this project, we will answer all these questions by manipulating and visualizing United Nations life expectancy data using ggplot2.
 
