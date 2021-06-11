@@ -1,6 +1,6 @@
-## [International Debt](https://github.com/AminAlAit/InternationalDebt)
+## [International Debt](https://github.com/AminAlAit/InternationalDebt/blob/main/notebook.ipynb)
 
-### [SQL Exploratory Data Analysis](https://github.com/AminAlAit/InternationalDebt)
+### [SQL Exploratory Data Analysis](https://github.com/AminAlAit/InternationalDebt/blob/main/notebook.ipynb)
 <span style="background-color: #DCDCDC">SQL</span> 
 <span style="background-color: #DCDCDC">Data Manipulation</span> 
 <span style="background-color: #DCDCDC">Case Study</span> 
@@ -14,9 +14,9 @@
 
 ________________________
 
-## [Handwashing Saved Countless Lives](https://github.com/AminAlAit/DrSemmelweis)
+## [Handwashing Saved Countless Lives](https://github.com/AminAlAit/DrSemmelweis/blob/main/notebook.ipynb)
 
-### [How Dr. Semmelweis Discovered The Importance Of Handwashing](https://github.com/AminAlAit/DrSemmelweis)
+### [How Dr. Semmelweis Discovered The Importance Of Handwashing](https://github.com/AminAlAit/DrSemmelweis/blob/main/notebook.ipynb)
 <span style="background-color: #DCDCDC">R</span> 
 <span style="background-color: #DCDCDC">Data Visualization</span> 
 <span style="background-color: #DCDCDC">Data Manipulation</span> 
@@ -35,9 +35,9 @@ In this notebook, I will be using the following packages:
 
 ________________________
 
-## [How Did The COVID-19 Pandemic Start And Spread?](https://github.com/AminAlAit/viz-covid-19)
+## [How Did The COVID-19 Pandemic Start And Spread?](https://github.com/AminAlAit/viz-covid-19/blob/main/notebook.ipynb)
 
-### [Visualizing the first quarter of 2020 to better understand what happened.](https://github.com/AminAlAit/viz-covid-19)
+### [Visualizing the first quarter of 2020 to better understand what happened.](https://github.com/AminAlAit/viz-covid-19/blob/main/notebook.ipynb)
 <span style="background-color: #DCDCDC">R</span> 
 <span style="background-color: #DCDCDC">Data Visualization</span> 
 <span style="background-color: #DCDCDC">Case Study</span> 
@@ -57,7 +57,7 @@ In this notebook, I will be using the following packages:
 
 ________________________
 
-## [Rise & Fall of Programming Languages](https://github.com/AminAlAit/rise-fall-prog-langs)
+## [Rise & Fall of Programming Languages](https://github.com/AminAlAit/rise-fall-prog-langs/blob/main/notebook.ipynb)
 <span style="background-color: #DCDCDC">R</span> 
 <span style="background-color: #DCDCDC">Data Visualization</span> 
 <span style="background-color: #DCDCDC">Data Manipulation</span> 
@@ -81,8 +81,8 @@ In this notebook, I will be using the following package(s):
 
 ________________________
 
-## [The Big Game](https://github.com/AminAlAit/shows-big-game)
-### [TV, Halftime Shows, and Football](https://github.com/AminAlAit/shows-big-game)
+## [The Big Game](https://github.com/AminAlAit/shows-big-game/blob/main/notebook.ipynb)
+### [TV, Halftime Shows, and Football](https://github.com/AminAlAit/shows-big-game/blob/main/notebook.ipynb)
 <span style="background-color: #DCDCDC">R</span> 
 <span style="background-color: #DCDCDC">Data Visualization</span> 
 <span style="background-color: #DCDCDC">Data Manipulation</span> 
@@ -101,8 +101,8 @@ In this notebook, I will be using the following package(s):
 
 ________________________
 
-## [VEISHE Riots](https://github.com/AminAlAit/VEISHEA-riots-2)
-### [Part 2](https://github.com/AminAlAit/VEISHEA-riots-2)
+## [VEISHE Riots](https://github.com/AminAlAit/VEISHEA-riots-2/blob/main/notebook.ipynb)
+### [Part 2](https://github.com/AminAlAit/VEISHEA-riots-2/blob/main/notebook.ipynb)
 <span style="background-color: #DCDCDC">R</span> 
 <span style="background-color: #DCDCDC">Data Visualization</span> 
 <span style="background-color: #DCDCDC">Data Manipulation</span> 
@@ -135,8 +135,8 @@ In this notebook, I will be using the following packages:
 
 ________________________
 
-## [VEISHE Riots](https://github.com/AminAlAit/VEISHEA-riots-1)
-### [Part 1](https://github.com/AminAlAit/VEISHEA-riots-1)
+## [VEISHE Riots](https://github.com/AminAlAit/VEISHEA-riots-1/blob/main/notebook.ipynb)
+### [Part 1](https://github.com/AminAlAit/VEISHEA-riots-1/blob/main/notebook.ipynb)
 <span style="background-color: #DCDCDC">R</span> 
 <span style="background-color: #DCDCDC">Data Visualization</span> 
 <span style="background-color: #DCDCDC">Data Manipulation</span> 
@@ -159,8 +159,8 @@ In this notebook, I will be using the following packages:
 
 ________________________
 
-## [Visualizing Inequalities in Life Expectancy](https://github.com/AminAlAit/life_exp)
-### [A GGPlot2 Tutorial](https://github.com/AminAlAit/life_exp)
+## [Visualizing Inequalities in Life Expectancy](https://github.com/AminAlAit/life_exp/blob/main/notebook.ipynb)
+### [A GGPlot2 Tutorial](https://github.com/AminAlAit/life_exp/blob/main/notebook.ipynb)
 <span style="background-color: #DCDCDC">R</span> 
 <span style="background-color: #DCDCDC">Data Visualization</span> 
 <span style="background-color: #DCDCDC">Data Manipulation</span> 
@@ -185,8 +185,8 @@ Picture source: worldatlas.com
 
 ________________________
 
-## [FIFA 2019 Women's World Cup](https://github.com/AminAlAit/19wwc)
-### [A Data Tour Around Venues & Attendance Numbers](https://github.com/AminAlAit/19wwc)
+## [FIFA 2019 Women's World Cup](https://github.com/AminAlAit/19wwc/blob/main/notebook.ipynb)
+### [A Data Tour Around Venues & Attendance Numbers](https://github.com/AminAlAit/19wwc/blob/main/notebook.ipynb)
 <span style="background-color: #DCDCDC">R</span> 
 <span style="background-color: #DCDCDC">Data Visualization</span> 
 <span style="background-color: #DCDCDC">Data Manipulation</span> 
@@ -210,8 +210,8 @@ In this notebook, I will be using the following packages:
 
 ________________________
 
-## [Nobel Prize Winners](https://github.com/AminAlAit/nobel_prize)
-### [A Visual History & Analysis](https://github.com/AminAlAit/nobel_prize)
+## [Nobel Prize Winners](https://github.com/AminAlAit/nobel_prize/blob/main/notebook.ipynb)
+### [A Visual History & Analysis](https://github.com/AminAlAit/nobel_prize/blob/main/notebook.ipynb)
 <span style="background-color: #DCDCDC">R</span> 
 <span style="background-color: #DCDCDC">Data Visualization</span> 
 <span style="background-color: #DCDCDC">Data Manipulation</span> 
@@ -235,8 +235,8 @@ In this notebook, I will be using the following packages:
 
 ________________________
 
-## [Crime Study](https://github.com/AminAlAit/crime_study_sf)
-### [Data Science for Social Good](https://github.com/AminAlAit/crime_study_sf)
+## [Crime Study](https://github.com/AminAlAit/crime_study_sf/blob/main/notebook.ipynb)
+### [Data Science for Social Good](https://github.com/AminAlAit/crime_study_sf/blob/main/notebook.ipynb)
 <span style="background-color: #DCDCDC">R</span> <span style="background-color: #DCDCDC">Data Visualization</span> <span style="background-color: #DCDCDC">Data Manipulation</span> <span style="background-color: #DCDCDC">Data Cleaning</span> <span style="background-color: #DCDCDC">Case Studies</span>
 
 Quantitative analyses can have a significant impact on initiating change within one's community. When analyzed responsibly, data can provide evidence to understand difficult social issues correctly. In this project, you will leverage publicly available data to interpret crime patterns within the city of San Francisco.
@@ -254,8 +254,8 @@ In this notebook, I will be using the following packages:
 
 ________________________
 
-## [Candy Crush Saga](https://github.com/AminAlAit/candycrush_difficulty)
-### [Studying Level Difficulty in Candy Crush Levels](https://github.com/AminAlAit/candycrush_difficulty)
+## [Candy Crush Saga](https://github.com/AminAlAit/candycrush_difficulty/blob/main/notebook.ipynb)
+### [Studying Level Difficulty in Candy Crush Levels](https://github.com/AminAlAit/candycrush_difficulty/blob/main/notebook.ipynb)
 <span style="background-color: #DCDCDC">R</span> <span style="background-color: #DCDCDC">Data Visualization</span> <span style="background-color: #DCDCDC">Data Manipulation</span> <span style="background-color: #DCDCDC">Data Cleaning</span> <span style="background-color: #DCDCDC">Case Studies</span> <span style="background-color: #DCDCDC">Probability</span> <span style="background-color: #DCDCDC">Statistics</span>
 
 Candy Crush Saga is a hit mobile game developed by King (part of Activision-Blizzard) that is played by millions of people all around the world.
@@ -273,8 +273,8 @@ In this notebook, I will be using the following packages:
 
 ________________________
 
-## [Kaggle](https://github.com/AminAlAit/exploring_kaggle)
-### [Exploring the Data Science Survey](https://github.com/AminAlAit/exploring_kaggle)
+## [Kaggle](https://github.com/AminAlAit/exploring_kaggle/blob/main/notebook.ipynb)
+### [Exploring the Data Science Survey](https://github.com/AminAlAit/exploring_kaggle/blob/main/notebook.ipynb)
 <span style="background-color: #DCDCDC">R</span> <span style="background-color: #DCDCDC">Data Visualization</span> <span style="background-color: #DCDCDC">Data Manipulation</span> <span style="background-color: #DCDCDC">Case Studies</span>
 
 When beginning a career in data science, one often wonders what programming tools and languages are being used in the industry, and what skills one should learn first. By exploring the 2017 Kaggle Data Science Survey results, you can learn about the tools used by 10,000+ people in the professional data science community.
@@ -291,8 +291,8 @@ In this notebook, I will be using the following packages:
 
 ________________________
 
-## [Phyllotaxis](https://github.com/AminAlAit/phyllotaxis)
-### [Drawing Flowers Using Mathematics](https://github.com/AminAlAit/phyllotaxis)
+## [Phyllotaxis](https://github.com/AminAlAit/phyllotaxis/blob/main/notebook.ipynb)
+### [Drawing Flowers Using Mathematics](https://github.com/AminAlAit/phyllotaxis/blob/main/notebook.ipynb)
 
 <span style="background-color: #DCDCDC">R</span> <span style="background-color: #DCDCDC">Data Visualization</span> <span style="background-color: #DCDCDC">Data Manipulation</span> <span style="background-color: #DCDCDC">Case Studies</span>
 
