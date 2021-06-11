@@ -14,7 +14,7 @@
 5.    cluster
 6.    factoextra
 
-![](/images/Degreest.png)
+![](/images/Degrees.png)
 
 ________________________
 
