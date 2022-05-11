@@ -1,3 +1,23 @@
+http://kurt.digital/2022/05/11/footballs-future-stars-how-accurately-is-ea-fifa-predicting-them/
+
+## How Accurate is EA's FIFA at Predicting Future Stars?
+
+The simplified study can be found [here](https://github.com/AminAlAit/fifaaccuracy/blob/main/How%20Accurate%20Is%20FIFA%20At%20Predicting%20Future%20Stars.pdf), while the extended one is found [here](https://github.com/AminAlAit/fifaaccuracy/blob/main/How%20Accurate%20Is%20FIFA%20At%20Predicting%20Future%20Stars.pdf). 
+
+### Topics & questions we touch upon:
+1.    For what given potential are players most likely to reach it?
+2.    For what given overall are players most likely to achieve a given potential?
+3.    Does the club matter?
+4.    Does nationality matter?
+5.    Just how much did EA FIFA get it right?
+6.    Is there a curse for the top 1 player with the highest potential of every year?
+7.    Top 25 rises in overall
+8.    Top 25 steepest declines in overall
+
+![](/images/fifaaccuracy.jpeg)
+
+________________________
+
 ## [World's Oldest Businesses](https://github.com/AminAlAit/oldbusinesses/blob/main/notebook.ipynb)
 
 ### [SQL Exploratory Data Analysis Walkthrough](https://github.com/AminAlAit/oldbusinesses/blob/main/notebook.ipynb)
@@ -5,7 +25,7 @@
 <span style="background-color: #DCDCDC">Data Manipulation</span> 
 <span style="background-color: #DCDCDC">Case Study</span> 
 
-### Questions we will touch upon:
+### Questions we touch upon: 
 1.    How many businesses were founded before the year 1000 and What are they? 
 2.    What industries constitute the oldest companies around the world? and which industries are most common?
 3.    Where in the world these old businesses are?
@@ -43,7 +63,7 @@ ________________________
 <span style="background-color: #DCDCDC">Data Manipulation</span> 
 <span style="background-color: #DCDCDC">Case Study</span> 
 
-### Questions we will touch upon:
+### Questions we touch upon:
 1.    What is the total amount of debt that is owed by the countries listed in the dataset?
 2.    Which country owns the maximum amount of debt and what does that amount look like?
 3.    What is the average amount of debt owed by countries across different debt indicators?
@@ -61,7 +81,7 @@ ________________________
 <span style="background-color: #DCDCDC">Probability & Statistics</span> 
 <span style="background-color: #DCDCDC">Case Study</span> 
 
-### Questions we will touch upon:
+### Questions we touch upon:
 1.    What is the effect of handwashing?
 2.    Statistically speaking, how confident was Dr. Semmelweis?
 
@@ -80,7 +100,7 @@ ________________________
 <span style="background-color: #DCDCDC">Data Visualization</span> 
 <span style="background-color: #DCDCDC">Case Study</span> 
 
-### Questions we will touch upon:
+### Questions we touch upon:
 1.    How did cases in China compare to the rest of the world?
 2.    What about the rest of the world?
 3.    How can we model this trend?
@@ -101,7 +121,7 @@ ________________________
 <span style="background-color: #DCDCDC">Data Manipulation</span> 
 <span style="background-color: #DCDCDC">Data Cleaning</span> 
 
-### Questions we will touch upon:
+### Questions we touch upon:
 1.    Has R been growing or shrinking?
 2.    How about dplyr and ggplot2?
 3.    What are the most asked-about tags?
@@ -126,7 +146,7 @@ ________________________
 <span style="background-color: #DCDCDC">Data Manipulation</span> 
 <span style="background-color: #DCDCDC">Data Cleaning</span> 
 
-### Questions we will touch upon:
+### Questions we touch upon:
 1.    What are the most extreme game outcomes?
 2.    How does point difference affect television viewership?
 3.    How have viewership, TV ratings, and advertisement costs evolved?
