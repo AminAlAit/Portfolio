@@ -1,8 +1,6 @@
-http://kurt.digital/2022/05/11/footballs-future-stars-how-accurately-is-ea-fifa-predicting-them/
-
 ## How Accurate is EA's FIFA at Predicting Future Stars?
 
-The simplified study can be found [here](https://github.com/AminAlAit/fifaaccuracy/blob/main/How%20Accurate%20Is%20FIFA%20At%20Predicting%20Future%20Stars.pdf), while the extended one is found [here](https://github.com/AminAlAit/fifaaccuracy/blob/main/How%20Accurate%20Is%20FIFA%20At%20Predicting%20Future%20Stars.pdf). 
+The simplified study can be found [here](http://kurt.digital/2022/05/11/footballs-future-stars-how-accurately-is-ea-fifa-predicting-them/), while the extended one is found [here](https://github.com/AminAlAit/fifaaccuracy/blob/main/How%20Accurate%20Is%20FIFA%20At%20Predicting%20Future%20Stars.pdf). 
 
 ### Topics & questions we touch upon:
 1.    For what given potential are players most likely to reach it?
